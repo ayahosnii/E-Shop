@@ -32,8 +32,8 @@ const router = createRouter({
       component: PresentationView,
     },
     {
-      path: "/pages/landing-pages/about-us",
-      name: "about",
+      path: "/shop",
+      name: "shop",
       component: AboutView,
     },
     {
